@@ -31,6 +31,7 @@ static const struct alumno_s ESTEBAN_VOLENTINI = {
     .documento = "23.517.968",
 };
 
+//! Estructura de datos del alumno Jhonny Velasco
 static const struct alumno_s JHONNY_VELASCO = {
     .apellidos = "VELASCO",
     .nombres = "Jhonny Alexander",
